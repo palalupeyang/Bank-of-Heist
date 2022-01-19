@@ -1,24 +1,15 @@
-Free Download Source Code "Bank Management System"
 
-FIRST Download
+1. Download the zip file/ download winrar or git clone
 
-1.XAMPP
+2. Extract the file and copy "bank" folder
 
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+3.Paste didalam root directory/ dimana folder xampp berada(for example: xampp/htdocs) 
 
-3"bank"
+4. Buka PHPMyAdmin (http://localhost/phpmyadmin)
 
-4. Download the zip file/ download winrar
+5. Buat database dengan nama mybank
 
-5. Extract the file and copy "bank" folder
-
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
-
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-8. Create a database with name mybank
-
-6. Import mybank.sql file(given inside the zip package in SQL file folder)
+6. Import mybank.sql file(berada didalam folder bank)
 
 7.Run the script http://localhost/bank
 
@@ -33,8 +24,15 @@ Username :cashier@cashier.com
 Password :cashier
 
 User
-Username: some@gmail.com
-Password: some
+Username: panca@gmail.com
+Password: panca
 
-****** https://www.campcodes.com/ ******
-Subcribe to our Youtube Channel **** SerBermz ****
+Username: nisa@gmail.com
+Password: nisa
+
+Username: ekosud@gmail.com
+Password: ekosud
+
+Username: paundra@gmail.com
+Password: paundra
+
